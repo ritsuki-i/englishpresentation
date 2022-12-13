@@ -1,0 +1,14 @@
+p{
+    font-size: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    height: 550px;
+    line-height: 550px;
+}
+.thank{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    background: url(back.jpeg)
+    center / cover;
+}
