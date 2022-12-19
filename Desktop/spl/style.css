@@ -1,0 +1,27 @@
+h1{
+    font-size: 80px;
+    font-style: oblique;
+}
+h2{
+    font-size: 60px;
+}
+li{
+    font-size: 40px;
+}
+img{
+    width: 600px; 
+    height: 330px;
+}
+ol{
+    margin-left: 40px;
+}
+h3{
+    font-size: 30px;
+    text-align: center;
+}
+.css{
+    display: flex;
+}
+.css li {
+    list-style: none;
+  }
